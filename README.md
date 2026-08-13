@@ -19,7 +19,7 @@ What I care about most is the gap between _"works on my machine"_ and _"works in
 
 - Currently building: **Loyalty platform**, **Adaptive learning platform**, **B2B application**
 - Currently exploring: **AI Agents** and **System Design Patterns**
-- Education: **B.E. Computer Science** @ UVCE, Bengaluru (2022 – 2026)
+- Education: **B.Tech. AIML** @ UVCE, Bengaluru (2023 – 2027)
 - Ask me about: **React, Next.js, TypeScript, Supabase, Production Engineering**
 
 ---
